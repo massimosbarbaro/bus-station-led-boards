@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Corriere: LED departure boards for the bays of a coach station (APEL Easy Board Text (DOS), 2002)"
+version: "2002"
+abstract: "This project drove the LED matrix boards above the bays (banchine) of a coach station in north-eastern Italy, serving regional and international lines. Each bay had its own board, addressed on a serial line. The work consisted of writing the messages for every departure (destination, bay and time, for regional and international lines), the summer timetable variants, and the message plans that switch each board automatically to the next departure by date and time window. Everything was handled through text-based message files and batch scripts."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/bus-station-led-boards"
+keywords:
+  - "LED display boards"
+  - "bus station"
+  - "timetables"
+  - "serial communication"
+  - "DOS"
+  - "legacy software"
