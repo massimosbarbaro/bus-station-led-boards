@@ -1,6 +1,7 @@
 {
   "title": "Corriere: LED departure boards for the bays of a coach station (APEL Easy Board Text (DOS), 2002)",
   "upload_type": "software",
+  "publication_date": "2002-08-28",
   "description": "<p><em>Tabelloni a LED delle partenze per le banchine di un'autostazione</em></p><p>This project drove the LED matrix boards above the bays (banchine) of a coach station in north-eastern Italy, serving regional and international lines. Each bay had its own board, addressed on a serial line. The work consisted of writing the messages for every departure (destination, bay and time, for regional and international lines), the summer timetable variants, and the message plans that switch each board automatically to the next departure by date and time window. Everything was handled through text-based message files and batch scripts.</p><p>Designed and programmed by Massimo Sbarbaro in 2002 (APEL Easy Board Text (DOS)). Published in 2026; all original data and the names of client organisations have been removed.</p>",
   "creators": [
     {
