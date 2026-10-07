@@ -1,5 +1,7 @@
 # Corriere: LED departure boards for the bays of a coach station
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205209.svg)](https://doi.org/10.5281/zenodo.23205209)
+
 *Tabelloni a LED delle partenze per le banchine di un'autostazione*
 
 **APEL Easy Board Text (DOS)** · 2002 · version 2002  
@@ -38,9 +40,9 @@ Only the files written for the bus station in 2002 are published: messages, mess
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205209](https://doi.org/10.5281/zenodo.23205209).
 
-> Sbarbaro, Massimo. *Corriere: LED departure boards for the bays of a coach station (APEL Easy Board Text (DOS), 2002)*. Software, version 2002. GitHub: https://github.com/massimosbarbaro/bus-station-led-boards
+> Sbarbaro, Massimo. 2002. *Corriere: LED departure boards for the bays of a coach station*. Software (APEL Easy Board Text (DOS), 2002), version 2002. Zenodo. https://doi.org/10.5281/zenodo.23205209.
 
 ## License
 
